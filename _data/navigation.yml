@@ -1,0 +1,7 @@
+# main menu in yml
+- name: Congress
+  link: /congress
+- name: Documentary
+  link: /documentary
+- name: Research Harassment Symposium
+  link: /symposium

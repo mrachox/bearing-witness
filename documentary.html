@@ -1,0 +1,18 @@
+---
+title: DOCUMENTARY
+---
+
+<h1>Documentary</h1>
+
+{% assign documentary_sections = site.documentary_sections | sort: 'number' %}
+{% for documentary_section in documentary_sections %}
+
+<h4>
+    {{ documentary_section.name }}
+</h4>
+
+{{documentary_section.content}}
+
+{% endfor %}
+
+</ul>

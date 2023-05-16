@@ -1,0 +1,10 @@
+---
+name: WHAT IS RESEARCH HARASSMENT
+---
+Research harassment describes instances of hate that scholars experience when disseminating their research and scholarly work in online spaces.
+
+Social media has become an increasingly important tool for scholars to extend their networks and build a public profile. The pressures to maintain a visible online presence are even greater for graduate students as a strategy to amplify their research to ultimately compete in a tight job market upon graduation. Yet, it is these same platforms that enable certain groups and individuals—often on the far-right—to conduct coordinated harassment campaigns that disproportionately target, women, queer, BIPOC, disabled, and other marginalized scholars
+
+From climate change to social equity, from gaming to critical race, graduate students’ research paradigms and topics are becoming political fodder in highly polarized and volatile online environments. The situation is further intensified as universities and funding bodies face additional pressures to a) meet equity, diversity, and inclusion expectations by admitting more graduate students from marginalized communities, b) advance research in topics related to equity, diversity, and inclusion that are disproportionally targeted in digital harassment campaigns and c) engage in knowledge mobilization practices that solicit attention from a broad online public.
+
+While scholars at any point in their careers, research harassment poses an under-discussed risk to scholars that affects many graduate students during their studies. In addition to causing drastic harm to the well-being and career prospects of individual graduate students, the long-term impacts of online harassment include the ways in which it limits what types of research are able to proceed, which perspectives are silenced, and which researchers are ultimately able to remain in the academy. It is our hope that this project will enable us to establish an interdisciplinary community of scholars committed to building more robust support systems to combat research harassment.

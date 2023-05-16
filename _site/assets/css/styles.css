@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,700;0,900;1,900&display=swap");
+html, body {
+  overflow-x: hidden;
+}
+
+strong {
+  color: #ff0000;
+}
+
+img {
+  width: 100%;
+}
+
+.logo {
+  max-width: 250px;
+  padding: 2em;
+}
+
+.york-logo {
+  max-width: 150px;
+}
+
+p {
+  font-size: 1.25em;
+  line-height: 1.5em;
+  letter-spacing: 2px;
+}
+
+.body {
+  min-height: 100vh;
+}
+.body h1 {
+  color: black;
+  text-shadow: -4px 1px 1px #ff0000, 3px 1px 1px #01ffff;
+}
+
+.team-img {
+  max-width: 250px;
+}
+
+.hero {
+  position: relative;
+}
+
+.hero-body {
+  position: relative;
+}
+
+ul li p {
+  display: inline;
+}
+
+.btn.btn-link {
+  color: black !important;
+}
+
+#bw h1, #bw h2, #bw h3, #bw h4 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+#bw p, #bw div, #bw strong, #bw ul, #bw li, #bw ol, #bw header, #bw section, #bw a {
+  font-family: "Raleway", sans-serif;
+}
+
+/*# sourceMappingURL=styles.css.map */

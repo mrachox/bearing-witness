@@ -1,0 +1,19 @@
+---
+title: Home
+---
+
+<!-- <img src="/assets/images/white_logo.png" alt="BW"> -->
+
+<h1>Bearing Witness</h1>
+
+<div id="home">
+    {% for home_section in site.home_sections %}
+        <h4>
+            {{ home_section.name }}
+        </h4>
+
+        {{ home_section.content }}
+    
+        {% endfor %}
+
+</div>

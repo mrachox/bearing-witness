@@ -1,0 +1,20 @@
+exclude: ['_includes/notes_graph.json','_projects/Templates', '_events/Templates', 'blog.html', '_posts', '_home_sections/Templates', '_congress_sections/Templates',  '_documentary_sections/Templates']
+permalink: pretty
+use_html_extension:  true
+
+collections: 
+  home_sections:
+    output: true
+  congress_sections:
+    output: true
+  documentary_sections:
+    output: true
+  # notes:
+  #   output: true
+  #   permalink: /:collection/:slug:output_ext
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

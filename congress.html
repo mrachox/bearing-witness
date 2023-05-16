@@ -1,0 +1,18 @@
+---
+title: Congress 2023
+---
+
+<h1>Congress 2023</h1>
+
+{% assign congress_sections = site.congress_sections | sort: 'number' %}
+{% for congress_section in congress_sections %}
+
+<h4>
+    {{ congress_section.name }}
+</h4>
+
+{{congress_section.content}}
+
+{% endfor %}
+
+</ul>

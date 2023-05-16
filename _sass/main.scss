@@ -1,0 +1,91 @@
+
+// THEME COLOURS
+  // Black
+  // #222222
+ 
+  // White
+  // #ffffff
+  
+  // Electric Blue
+  $blue: #01ffff;
+  
+  // Coral
+  $coral: #ff0000;
+  
+  // Grey
+  $grey: #d9d9d9;
+
+
+html, body {
+    overflow-x: hidden;
+    // background-color: $blue !important;
+}
+
+strong {
+    color: $coral;
+}
+
+img {
+    width: 100%;
+}
+
+.logo {
+    max-width: 250px;
+    padding: 2em;
+}
+
+.york-logo {
+    max-width: 150px;
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.5em;
+    letter-spacing: 2px;
+}
+
+.body {
+    min-height: 100vh;
+    
+    h1 {
+        color: black;
+        text-shadow: -4px 1px 1px $coral, 3px 1px 1px $blue;
+        // text-shadow: -4px 1px 1px #ff0000, 3px 1px 1px #01ffff;
+    }
+}
+
+.team-img {
+    max-width: 250px;
+}
+
+// spectre.css
+.hero {
+    position: relative;
+}
+
+.hero-body {
+    position: relative;
+}
+
+ul {
+    li {
+        p {
+            display: inline;
+        }
+    }
+}
+
+.btn.btn-link {
+    color: black !important;
+}
+
+#bw {
+    h1, h2, h3, h4 {
+        font-family: 'Raleway', sans-serif;
+        font-weight: 900;
+        text-transform: uppercase;
+    }
+    p, div, strong, ul, li, ol, header, section, a {
+        font-family: 'Raleway', sans-serif;
+    }
+}
