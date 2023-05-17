@@ -6,6 +6,7 @@ number: "4"
 **SARAH HANCOCK**
 
 ARTIST STATEMENT
+
 My installation is meant to be a space of confrontation. I appropriated the popular term “online trolling” by making a physical online troll. This troll becomes a body to engage in a dialogue about online harassment; it represents fear, erasure, politics, and danger. The QR code on the troll's chest invites the viewer to use media as a tool. I want to highlight the ambiguity of technology's usefulness in our society. As a platform to share information or opinions, the lines are blurred. Similarly, the QR code is a tool for communication, however, it takes the viewer to a video simulating the threat of online harassment. The video was made based on the emotional takeaway of anonymous interviews with researchers.
 
 In front of the troll are two stacks of cease-and-desist letters one stack represents the online harassment experienced among university researchers with a monthly online presence the other stack represents those without a monthly online presence. I believe this highlights the growing concern surrounding the ambiguity of social media as a tool. This data also demonstrates the persistence of targeted online harassment as researchers without a monthly online presence still face victimization.
