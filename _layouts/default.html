@@ -16,6 +16,10 @@
     <div class="body container grid-lg">
       <div class="columns">
         <div class="column col-lg-12 col-md-12 col-sm-12">
+          {% if page.url != "/" %}
+          <h6><a href="/" class="home"><< Back</a></h6>
+          {% endif %}
+
           {{ content }}
         </div>
       

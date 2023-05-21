@@ -12,12 +12,20 @@ img {
 }
 
 .logo {
-  max-width: 250px;
-  padding: 2em;
+  max-width: 0;
+  padding: 0;
+}
+
+.logos {
+  text-align: center;
 }
 
 .york-logo {
   max-width: 150px;
+}
+
+.djcirc-logo {
+  max-width: 100px;
 }
 
 p {
@@ -61,6 +69,26 @@ ul li p {
 }
 #bw p, #bw div, #bw strong, #bw ul, #bw li, #bw ol, #bw header, #bw section, #bw a {
   font-family: "Raleway", sans-serif;
+}
+#bw a {
+  font-size: 12px;
+  color: black;
+}
+#bw .bw-logo {
+  margin-bottom: 1em;
+}
+
+@media (min-width: 768px) {
+  #bw a {
+    font-size: 16px;
+  }
+  #bw .bw-logo {
+    margin-bottom: 5em;
+  }
+  .logo {
+    max-width: 250px;
+    padding: 2em;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

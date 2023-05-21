@@ -1,16 +1,17 @@
 <header class="navbar">
     <section class="navbar-section">
+
+        {% if page.url == "/" %}
+        <a href="/"><img class="logo" src="/assets/images/white_home_logo.png" alt=""></a>
+        {% else %}
         <a href="/"><img class="logo" src="/assets/images/black_logo.png" alt=""></a>
+        {% endif %}
+
         {% for item in site.data.navigation %}
-            <a href="{{ item.link }}" 
-            {% if page.url == item.link %} 
-                class="btn btn-link current" 
-            {% else %}
-                class="btn btn-link" 
-            {% endif %}
-            >
-                {{ item.name }}
-            </a>
+        <a href="{{ item.link }}" {% if page.url==item.link %} class="btn btn-link current" {% else %}
+            class="btn btn-link" {% endif %}>
+            {{ item.name }}
+        </a>
         {% endfor %}
     </section>
 </header>
