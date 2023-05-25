@@ -1,5 +1,6 @@
 ---
 name: ABOUT US 
+number: "1"
 ---
 
 **Bearing Witness: Hate, Harassment and Online Public Scholarship** is a project based at York University and led by Alexandra Borkowski, Natalie Coulter, and Marion Grant.

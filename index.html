@@ -8,7 +8,8 @@ title: Home
 
 <div id="home">
     <img src="/assets/images/white_logo_crop.png" alt="Bearing Witness" class="bw-logo">
-    {% for home_section in site.home_sections %}
+    {% assign home_sections = site.home_sections | sort: 'number' %}
+    {% for home_section in home_sections %}
         <h4>
             {{ home_section.name }}
         </h4>

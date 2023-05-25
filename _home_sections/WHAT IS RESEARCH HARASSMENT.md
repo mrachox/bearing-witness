@@ -1,5 +1,6 @@
 ---
 name: WHAT IS RESEARCH HARASSMENT
+number: "2"
 ---
 Research harassment describes instances of hate that scholars experience when disseminating their research and scholarly work in online spaces.
 

@@ -1,5 +1,6 @@
 ---
 name: MEET THE PROJECT TEAM
+number: "3"
 ---
 
 **ALEX BORKOWSKI**
@@ -10,3 +11,6 @@ Natalie Coulter is an Associate Professor in Communication and Media Studies and
 
 **MARION TEMPEST GRANT**
 Marion (she/her) is a PhD student in the joint Communication & Culture Program at York University and Toronto Metropolitan University. Her research uses Digital Humanities tools and approaches to uncover and track women’s artistic and social labour during the late-nineteenth and early-twentieth centuries.
+
+**ANNA YOUNG**
+Anna Young is a second-year PhD student in the joint Communication & Culture programme at York/Toronto Metropolitan University. Her research is positioned at the intersection of media history, material culture studies, and body studies, and draws from a queer and sensorial methodology. Her dissertation work investigates the materiality, genealogy, and cultural formulation of the screen from the 1950s to the present day. Originally from the UK, she moved to Toronto in 2021 and spends her free time taking part in the city’s queer rave 

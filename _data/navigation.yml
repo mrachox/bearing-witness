@@ -1,5 +1,5 @@
 # main menu in yml
-- name: Congress
+- name: May 2023 Event
   link: /congress
 - name: Documentary
   link: /documentary
