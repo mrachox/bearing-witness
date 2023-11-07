@@ -1,5 +1,5 @@
 ---
-name: MEET THE DOCUMENTARY FILMMAKER
+name: MEET THE FILMMAKER
 number: "2"
 ---
 

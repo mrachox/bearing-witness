@@ -3,6 +3,4 @@ name: ""
 number: "1"
 ---
 
-The project will create a short documentary on the topic of research harassment. 
- 
-The Documentary is currently in progress will be screened at the fall symposium.
+This short film, *Bearing Witness: Hate, Harassment and Online Public Scholarship*, introduces the issue of research harassment and documents the research-creation process.
