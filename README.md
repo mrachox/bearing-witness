@@ -1,6 +1,7 @@
 # bearing-witness
 
-Content is handled through Obsidian and deployed via Netlify.
+This is a website built using Jekyll. Content is handled through Obsidian and deployed via Netlify.
+https://jekyllrb.com/
 https://obsidian.md/
 https://www.netlify.com/
 
@@ -18,4 +19,4 @@ To add a pic:
 ```<img src="/assets/images/nameOfImage.png" alt="documentation 1" />```
 
 To add a video:
-- get the video's embed code and paste into the page you want it to appear
+	- get the video's embed code and paste into the page you want it to appear
