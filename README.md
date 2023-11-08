@@ -12,5 +12,10 @@ To add text:
 	- *symposium* (standalone page)
 
 To add a pic:
-- drag a pic
-<img src="/assets/images/bw_documentation1.png" alt="documentation 1" />
+- drag a pic into the assets/images folder
+- on the page that you want that pic to appear, add this code where nameOfImage.png is your image
+
+```<img src="/assets/images/nameOfImage.png" alt="documentation 1" />```
+
+To add a video:
+- get the video's embed code and paste into the page you want it to appear
